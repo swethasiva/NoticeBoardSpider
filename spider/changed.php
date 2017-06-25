@@ -12,13 +12,8 @@ if($new == $cnew)
 {
 
 
-$servername ="localhost";
-$dbname="board";
-$user="root";
-$pwd="";
-
-$conn = mysql_connect($servername,$user,$pwd);
-mysql_select_db($dbname);
+include ("Connectivity.php");
+$conn = Connect::connection();
 
 if($conn == null)
 {
