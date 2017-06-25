@@ -37,7 +37,7 @@
 ### The third table , note is used for storing deatils about the posts created or edited and displayed. 
 
 
-
+![screenshot 12](https://user-images.githubusercontent.com/28360478/27514209-074f6830-59a1-11e7-8d95-076b4adcea76.png)
 
 
 
