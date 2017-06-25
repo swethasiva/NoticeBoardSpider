@@ -37,7 +37,7 @@ $pwd1= $_POST['t4'];
 $p1 = md5($pwd);
 $p2 = md5($pwd1);
 
-if($p1 = $p2)
+if($p1 == $p2)
 {
 include ("Connectivity.php");
 $conn = Connect::connection();
