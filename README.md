@@ -37,6 +37,11 @@
 ### The third table , note is used for storing deatils about the posts created or edited and displayed. 
 
 
+# !!! Use Xampp version 5.5.0( as xampp version 7.1 onwards mysql_connect cannot be used ) and i have used mysql_connect() in the project.!!!
+
+## the link to download the xampp server that has been used for the project is given here  : https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/5.5.19/
+
+
 ![screenshot 12](https://user-images.githubusercontent.com/28360478/27514209-074f6830-59a1-11e7-8d95-076b4adcea76.png)
 ![screenshot 13](https://user-images.githubusercontent.com/28360478/27514225-8f07f3b4-59a1-11e7-98ea-afdf4b055fd8.png)
 ![screenshot 14](https://user-images.githubusercontent.com/28360478/27514226-8f0bc520-59a1-11e7-9b9a-00c8faafbe37.png)
