@@ -18,7 +18,7 @@ else
 {
  //echo $conn;
     
-    $sql = "select * from student where uname='".$u."' and pwd1='".$p."'";
+    $sql = "select * from student where uname='".$u."' and pwd='".$p."'";
     
     $res = mysql_query($sql,$conn);
     
