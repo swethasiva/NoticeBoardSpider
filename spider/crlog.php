@@ -20,7 +20,7 @@ else
 {
  //echo $conn;
     
-    $sql = "select * from student where uname='".$u."' and email = '".$m."' and pwd1='".$p."' and  cr = 1";
+    $sql = "select * from student where uname='".$u."' and email = '".$m."' and pwd='".$p."' and  cr = 1";
     
     $res = mysql_query($sql,$conn);
     
