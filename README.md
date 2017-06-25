@@ -28,6 +28,18 @@
 
 
 
+# Database used( name ) : board
+## the commands for creation of data base and other required table is written in "database.sql" file in the repo .
+## Tables used : admin , student , note.
+### admin table is solely for the professor
+### student table is where all registration credential of students registering are stored. The data retrieved from this database is used to check and allow login of Students and Class rep. 
+### Student table has uname , email , pwd , cr , admin fields. The value of 1 in cr or admin field means that , that particualr cr is a cr or admin or both based on which fields hold  value 1. 
+### The third table , note is used for storing deatils about the posts created or edited and displayed. 
+
+
+
+
+
 
 
 
